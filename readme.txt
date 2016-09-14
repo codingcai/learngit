@@ -3,6 +3,7 @@ GIt is  a  free software.
 Git is from C
 Git is in dis version
 Git tracks changes
+store bug 01
 
 
 Creating a new branch is quick and simple
